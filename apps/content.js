@@ -28,8 +28,8 @@ window.APP_CONTENT = {
         },
         support: {
           heading: 'お問い合わせ',
-          body: ['バグの報告・ご要望は、以下の GitHub Issues よりお送りください。'],
-          cta: { label: 'GitHub Issues を開く', url: 'https://github.com/productiveware/katachi_quiz/issues' },
+          body: ['バグの報告・ご要望は、以下のフォームよりお送りください。'],
+          cta: { label: 'お問い合わせフォームを開く', url: 'https://docs.google.com/forms/d/e/1FAIpQLSeXhbqm04ucZ3OwShbzQhUqhq5zigawd0mQgMM19wGcLkPvVw/viewform?usp=publish-editor' },
         },
         privacy: {
           heading: 'プライバシーポリシー',
@@ -53,7 +53,7 @@ window.APP_CONTENT = {
               { html: '<strong>Google AdMob</strong>（広告配信）― <a href="https://policies.google.com/privacy">プライバシーポリシー</a>' },
               { html: '<strong>Google ML Kit</strong>（手書き認識）― <a href="https://developers.google.com/ml-kit/terms">利用規約</a>' },
             ]},
-            { n: '06', title: 'お問い合わせ', body: [{ html: 'プライバシーポリシーに関するご質問は、<a href="https://github.com/productiveware/katachi_quiz/issues">GitHub Issues</a> よりお問い合わせください。' }]},
+            { n: '06', title: 'お問い合わせ', body: [{ html: 'プライバシーポリシーに関するご質問は、<a href="https://docs.google.com/forms/d/e/1FAIpQLSeXhbqm04ucZ3OwShbzQhUqhq5zigawd0mQgMM19wGcLkPvVw/viewform?usp=publish-editor">お問い合わせフォーム</a>よりお問い合わせください。' }]},
             { n: '07', title: '改定', body: ['本ポリシーは必要に応じて改定することがあります。重要な変更がある場合は、このページにて告知します。']},
           ],
         },
@@ -75,7 +75,7 @@ window.APP_CONTENT = {
             { n: '05', title: '知的財産権', body: ['本アプリに関する知的財産権はすべて開発者に帰属します。']},
             { n: '06', title: '規約の変更', body: ['本規約は必要に応じて改定することがあります。改定後の規約はこのページにて公開します。']},
             { n: '07', title: '準拠法・管轄', body: ['本規約は日本法に準拠し、日本の裁判所を専属管轄裁判所とします。']},
-            { n: '08', title: 'お問い合わせ', body: [{ html: '本規約に関するご質問は、<a href="https://github.com/productiveware/katachi_quiz/issues">GitHub Issues</a> よりお問い合わせください。' }]},
+            { n: '08', title: 'お問い合わせ', body: [{ html: '本規約に関するご質問は、<a href="https://docs.google.com/forms/d/e/1FAIpQLSeXhbqm04ucZ3OwShbzQhUqhq5zigawd0mQgMM19wGcLkPvVw/viewform?usp=publish-editor">お問い合わせフォーム</a>よりお問い合わせください。' }]},
           ],
         },
         credits: {
@@ -133,8 +133,8 @@ window.APP_CONTENT = {
         },
         support: {
           heading: 'サポート',
-          intro: ['不具合のご報告・機能のご要望は、以下の GitHub Issues よりお送りください。'],
-          cta: { label: 'GitHub Issues を開く', url: 'https://github.com/productiveware/Goutracker-support/issues' },
+          intro: ['不具合のご報告・機能のご要望は、以下のフォームよりお送りください。'],
+          cta: { label: 'お問い合わせフォームを開く', url: 'https://docs.google.com/forms/d/e/1FAIpQLSeXhbqm04ucZ3OwShbzQhUqhq5zigawd0mQgMM19wGcLkPvVw/viewform?usp=publish-editor' },
           faqs: [
             { q: 'データは安全ですか？', a: 'はい。すべてのデータはお客様のデバイス内に AES 暗号化されて保存されます。クラウドに送信されることはありません。' },
             { q: 'トライアル期間後はどうなりますか？', a: '7日間の無料トライアル終了後、通知機能が無効になりますが、水分摂取と服薬の記録は引き続き利用できます。' },
@@ -199,7 +199,7 @@ window.APP_CONTENT = {
             ]},
             { n: '12', title: '子供のプライバシー', body: ['本アプリは13歳未満の子供を対象としていません。13歳未満の子供から意図的に個人情報を収集することはありません。']},
             { n: '13', title: 'プライバシーポリシーの変更', body: ['本プライバシーポリシーは必要に応じて更新される場合があります。重要な変更がある場合は、アプリ内で通知します。']},
-            { n: '14', title: 'お問い合わせ', body: [{ html: '本プライバシーポリシーに関するご質問は、<a href="https://github.com/productiveware/Goutracker-support/issues">GitHub Issues</a> よりお問い合わせください。' }]},
+            { n: '14', title: 'お問い合わせ', body: [{ html: '本プライバシーポリシーに関するご質問は、<a href="https://docs.google.com/forms/d/e/1FAIpQLSeXhbqm04ucZ3OwShbzQhUqhq5zigawd0mQgMM19wGcLkPvVw/viewform?usp=publish-editor">お問い合わせフォーム</a>よりお問い合わせください。' }]},
           ],
         },
         terms: {
@@ -265,7 +265,7 @@ window.APP_CONTENT = {
             ]},
             { n: '12', title: '利用規約の変更', body: ['当方は、必要に応じて本規約を変更する権利を有します。重要な変更がある場合は、アプリ内で通知します。変更後も本アプリを継続して使用する場合、変更後の規約に同意したものとみなされます。']},
             { n: '13', title: '準拠法と管轄', body: ['本規約は日本法に準拠し、解釈されます。本アプリに関する紛争については、東京地方裁判所を第一審の専属的合意管轄裁判所とします。']},
-            { n: '14', title: 'お問い合わせ', body: [{ html: '本規約に関するご質問は、<a href="https://github.com/productiveware/Goutracker-support/issues">GitHub Issues</a> よりお問い合わせください。' }]},
+            { n: '14', title: 'お問い合わせ', body: [{ html: '本規約に関するご質問は、<a href="https://docs.google.com/forms/d/e/1FAIpQLSeXhbqm04ucZ3OwShbzQhUqhq5zigawd0mQgMM19wGcLkPvVw/viewform?usp=publish-editor">お問い合わせフォーム</a>よりお問い合わせください。' }]},
           ],
         },
       },
@@ -288,8 +288,8 @@ window.APP_CONTENT = {
         },
         support: {
           heading: 'Support',
-          intro: ['Please send bug reports and feature requests through GitHub Issues.'],
-          cta: { label: 'Open GitHub Issues', url: 'https://github.com/productiveware/Goutracker-support/issues' },
+          intro: ['Please send bug reports and feature requests through the contact form below.'],
+          cta: { label: 'Open Contact Form', url: 'https://docs.google.com/forms/d/e/1FAIpQLSeXhbqm04ucZ3OwShbzQhUqhq5zigawd0mQgMM19wGcLkPvVw/viewform?usp=publish-editor' },
           faqs: [
             { q: 'Is my data safe?', a: 'Yes. All data is stored locally on your device with AES encryption. It is never transmitted to the cloud.' },
             { q: 'What happens after the trial?', a: 'After the 7-day free trial, notification features will be disabled, but you can continue to record water intake and medication.' },
@@ -353,7 +353,7 @@ window.APP_CONTENT = {
             ]},
             { n: '12', title: "Children's Privacy", body: ['This App is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13.']},
             { n: '13', title: 'Changes to Privacy Policy', body: ['This Privacy Policy may be updated as necessary. If there are significant changes, we will notify you within the app.']},
-            { n: '14', title: 'Contact Us', body: [{ html: 'If you have any questions or comments about this Privacy Policy, please contact us through <a href="https://github.com/productiveware/Goutracker-support/issues">GitHub Issues</a>.' }]},
+            { n: '14', title: 'Contact Us', body: [{ html: 'If you have any questions or comments about this Privacy Policy, please contact us through <a href="https://docs.google.com/forms/d/e/1FAIpQLSeXhbqm04ucZ3OwShbzQhUqhq5zigawd0mQgMM19wGcLkPvVw/viewform?usp=publish-editor">contact form</a>.' }]},
           ],
         },
         terms: {
@@ -422,7 +422,7 @@ window.APP_CONTENT = {
             ]},
             { n: '12', title: 'Changes to Terms of Service', body: ['We reserve the right to modify these Terms as necessary. If there are significant changes, we will notify you within the App. Continued use of the App after changes constitutes acceptance of the modified Terms.']},
             { n: '13', title: 'Governing Law and Jurisdiction', body: ['These Terms shall be governed by and construed in accordance with the laws of Japan. Any disputes relating to the App shall be subject to the exclusive jurisdiction of the Tokyo District Court as the court of first instance.']},
-            { n: '14', title: 'Contact Us', body: [{ html: 'If you have any questions or comments about these Terms, please contact us through <a href="https://github.com/productiveware/Goutracker-support/issues">GitHub Issues</a>.' }]},
+            { n: '14', title: 'Contact Us', body: [{ html: 'If you have any questions or comments about these Terms, please contact us through <a href="https://docs.google.com/forms/d/e/1FAIpQLSeXhbqm04ucZ3OwShbzQhUqhq5zigawd0mQgMM19wGcLkPvVw/viewform?usp=publish-editor">contact form</a>.' }]},
           ],
         },
       },
@@ -445,8 +445,8 @@ window.APP_CONTENT = {
         },
         support: {
           heading: '支持',
-          intro: ['请通过 GitHub Issues 提交错误报告和功能请求。'],
-          cta: { label: '打开 GitHub Issues', url: 'https://github.com/productiveware/Goutracker-support/issues' },
+          intro: ['请通过以下联系表单提交错误报告和功能请求。'],
+          cta: { label: '打开联系表单', url: 'https://docs.google.com/forms/d/e/1FAIpQLSeXhbqm04ucZ3OwShbzQhUqhq5zigawd0mQgMM19wGcLkPvVw/viewform?usp=publish-editor' },
           faqs: [
             { q: '我的数据安全吗？', a: '是的。所有数据都以 AES 加密方式存储在您的设备上。不会传输到云端。' },
             { q: '试用期结束后会怎样？', a: '7 天免费试用期结束后，通知功能将被禁用，但您仍可继续记录饮水和用药。' },
@@ -510,7 +510,7 @@ window.APP_CONTENT = {
             ]},
             { n: '12', title: '儿童隐私', body: ['本应用不适用于 13 岁以下的儿童。我们不会有意收集 13 岁以下儿童的个人信息。']},
             { n: '13', title: '隐私政策变更', body: ['本隐私政策可能会根据需要进行更新。如有重大变更，我们将在应用内通知您。']},
-            { n: '14', title: '联系我们', body: [{ html: '如果您对本隐私政策有任何疑问或意见，请通过 <a href="https://github.com/productiveware/Goutracker-support/issues">GitHub Issues</a> 与我们联系。' }]},
+            { n: '14', title: '联系我们', body: [{ html: '如果您对本隐私政策有任何疑问或意见，请通过<a href="https://docs.google.com/forms/d/e/1FAIpQLSeXhbqm04ucZ3OwShbzQhUqhq5zigawd0mQgMM19wGcLkPvVw/viewform?usp=publish-editor">联系表单</a>与我们联系。' }]},
           ],
         },
         terms: {
@@ -577,7 +577,7 @@ window.APP_CONTENT = {
             ]},
             { n: '12', title: '服务条款变更', body: ['我们保留根据需要修改本条款的权利。如有重大变更，我们将在应用内通知您。变更后继续使用本应用即表示接受修改后的条款。']},
             { n: '13', title: '适用法律和管辖', body: ['本条款应根据日本法律进行解释和适用。有关本应用的任何争议应由东京地方法院作为第一审法院专属管辖。']},
-            { n: '14', title: '联系我们', body: [{ html: '如果您对本条款有任何疑问或意见，请通过 <a href="https://github.com/productiveware/Goutracker-support/issues">GitHub Issues</a> 与我们联系。' }]},
+            { n: '14', title: '联系我们', body: [{ html: '如果您对本条款有任何疑问或意见，请通过<a href="https://docs.google.com/forms/d/e/1FAIpQLSeXhbqm04ucZ3OwShbzQhUqhq5zigawd0mQgMM19wGcLkPvVw/viewform?usp=publish-editor">联系表单</a>与我们联系。' }]},
           ],
         },
       },
